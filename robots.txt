@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://usistrot.github.io/sitemap
+Sitemap: https://usistrot.github.io/app/sitemap
+Sitemap: https://usistrot.github.io/assets/sitemap
+Sitemap: https://usistrot.github.io/css/sitemap
+Sitemap: https://usistrot.github.io/includes/sitemap
+Sitemap: https://usistrot.github.io/item/sitemap
+Sitemap: https://usistrot.github.io/src/sitemap
